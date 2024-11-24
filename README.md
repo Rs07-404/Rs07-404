@@ -52,7 +52,6 @@ For more, visit my [Portfolio](https://rs07-404.github.io/raunak-shah-portfolio/
 ---
 
 ### 📊 GitHub Stats
-![Raunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rs07-404&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rs07-404&theme=dark)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rs07-404&layout=compact&theme=radical)
 
