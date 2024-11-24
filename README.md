@@ -8,29 +8,16 @@ I'm a passionate student from Maharashtra, India, currently pursuing my degree a
 ### 🛠️ Skills & Technologies
 
 #### **Languages**
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) 
-- ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white) 
-- ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white) 
-- ![Python](https://img.shields.io/badge/-Python-yellowgreen?logo=python&logoColor=white) 
-- ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white) 
-- ![C++](https://img.shields.io/badge/-C++-informational?logo=cplusplus&logoColor=white) 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-yellowgreen?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-informational?logo=cplusplus&logoColor=white) 
 
 #### **Technologies**
-- ![Node.js](https://img.shields.io/badge/-Node.js-success?logo=nodedotjs&logoColor=white) 
-- ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?logo=express&logoColor=white) 
-- ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white) 
-- ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-success?logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?logo=express&logoColor=white) ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white)
 
 #### **Databases**
-- ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white) 
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightblue?logo=postgresql&logoColor=white) 
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white) 
+- ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightblue?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white) 
 
 #### **Tools**
-- ![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white) 
-- ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white) 
-- ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white) 
-- ![AWS](https://img.shields.io/badge/-AWS-yellow?logo=amazonaws&logoColor=white) 
+- ![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white) 
 
 ---
 
