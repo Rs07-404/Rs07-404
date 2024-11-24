@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Raunak Rajesh Shah
 
 ### 👨‍💻 About Me
-I'm a passionate **Electronics and Computer Engineering** student from Maharashtra, India, currently pursuing my degree at **Walchand Institute of Technology, Solapur**. I specialize in building full-stack web applications, IoT-based solutions, and problem-solving with a strong foundation in core engineering principles and software development.
+I'm a passionate student from Maharashtra, India, currently pursuing my degree at **Walchand Institute of Technology, Solapur**. I specialize in building full-stack web applications, IoT-based solutions, and problem-solving with a strong foundation in core engineering principles and software development.
 
 ---
 
